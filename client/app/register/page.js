@@ -18,6 +18,7 @@ export default function Page() {
                     <div className="mt-5">
                         <input type="checkbox" placeholder="box" className="mr-2"/>
                         <span>I agree with the term</span>
+                        <div>Test</div>
                     </div>
                     <div className="mt-5 mb-5">
                         <button type="submit" className="bg-indigo-600 text-white px-7 py-2 rounded-3xl">Sign Up</button>
